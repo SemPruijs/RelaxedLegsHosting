@@ -1,0 +1,16 @@
+{
+"companyName": "Unboxing Solutions",
+"productName": "Relaxed Legs",
+"productVersion": "1.1",
+"dataUrl": "RelaxedLegs1.0.data.unityweb",
+"wasmCodeUrl": "RelaxedLegs1.0.wasm.code.unityweb",
+"wasmFrameworkUrl": "RelaxedLegs1.0.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#3FCAF3",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.21f1"
+}
